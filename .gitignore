@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+Dataset/images/
+SelectedImages/
+model/*.npy
+model/*.hdf5
+model/*.pckl
