@@ -1,4 +1,4 @@
-🩺 Lesion-Based Diabetic Retinopathy Detection Using Hybrid Deep Learning
+**🩺 Lesion-Based Diabetic Retinopathy Detection Using Hybrid Deep Learning**
 📌 Project Overview
 
 A Lesion-Based Diabetic Retinopathy Detection Through Hybrid Deep Learning Model is a deep learning-based application designed to analyze retinal fundus images and identify diabetic retinopathy-related lesions.
@@ -37,6 +37,8 @@ OpenCV
 Machine Learning
 Image Processing
 Tkinter / GUI
+
+
 📁 Project Structure
 DR_Project/
 │
@@ -79,8 +81,9 @@ For Windows:
 venv\Scripts\activate
 5. Install Dependencies
 pip install -r requirements.txt
-📂 Dataset Setup
 
+
+📂 Dataset Setup
 The project uses retinal fundus images and corresponding labels.
 
 Place the required dataset files in the following structure:
